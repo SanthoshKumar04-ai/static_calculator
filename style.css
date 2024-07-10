@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    
+}
+
+
+
+.container{
+    
+    text-align: center;
+   
+  
+    
+    
+   
+    
+   
+}
+
+   
+    
+
+.col-1,.col-3{
+    
+   height: 100px;
+   justify-content: center;
+   border: 10px solid aquamarine;
+    background-color: yellow;
+    }
+.col-3:hover{
+    background-color: beige;
+}
+.col-1:hover{
+    background-color: beige;
+}
+
+
